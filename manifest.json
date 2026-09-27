@@ -1,0 +1,16 @@
+{
+  "name": "Krisztián Life Tracker",
+  "short_name": "Life Tracker",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f8",
+  "theme_color": "#071f31",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
